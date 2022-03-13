@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName = 'DeviceQa'
+app = "./build/cadastro_clientes_teste.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 5
